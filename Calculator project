@@ -15,7 +15,7 @@ def divide(a,b):
 Ist_no=float(input("enter first no:"))
 scd_no=float(input("enter second no:"))
 
-print("please select choice\n"
+print("please select operation\n"
       "1.Add\n"
       "2.Subtract\n"
       "3.Multiply\n"
